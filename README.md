@@ -59,5 +59,5 @@ Los resultados y el gráfico se guardarán automáticamente en la carpeta /resul
 TRAZABILIDAD CON JIRA
 Todos los commits de este proyecto siguen el formato de Conventional Commits vinculados al tablero de Jira del equipo
 
-Tablero Jira: 
+Tablero Jira: https://utnprog.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNzVlNmNlOWM4MWYyNDQxMGExNDEwMDU0ZDU5ZjZmNTQiLCJwIjoiaiJ9
 
